@@ -1,0 +1,7 @@
+a.	A company’s profit - float, because the the profit number may contain a decimal point.
+b.	A person’s weight - float, because the weight may contain a decimal point, especially considering the different units of weight.
+c.	A book title - string, because the title will be alphanumeric characters.
+d.	Average rainfall in September - float, because rainfall may contain a decimal point unless rounded to the nearest millimeter.
+e.	Number of runs scored by a cricketer - int, because runs will always be whole numbers.
+f.	A telephone number, including area code - string, because we need characters for the '+' in the area code, and potentially brackets e.g. (+ 44) for UK.
+g.	A dress size - int, as dress sizes are whole numbers.
